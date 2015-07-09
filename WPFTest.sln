@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTest", "WPFTest\WPFTest.csproj", "{17125A2C-E8C6-44B8-85A3-64311E7D5B23}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FizzbuzzCalculator", "FizzbuzzCalculator\FizzbuzzCalculator.fsproj", "{0ECAB7A5-6A44-4683-BD03-BC3592479751}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tutorial", "Tutorial\Tutorial.fsproj", "{BEFEFCE1-229E-4833-B4CD-0C9977EFEF54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17125A2C-E8C6-44B8-85A3-64311E7D5B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17125A2C-E8C6-44B8-85A3-64311E7D5B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17125A2C-E8C6-44B8-85A3-64311E7D5B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17125A2C-E8C6-44B8-85A3-64311E7D5B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECAB7A5-6A44-4683-BD03-BC3592479751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECAB7A5-6A44-4683-BD03-BC3592479751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECAB7A5-6A44-4683-BD03-BC3592479751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECAB7A5-6A44-4683-BD03-BC3592479751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEFEFCE1-229E-4833-B4CD-0C9977EFEF54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFEFCE1-229E-4833-B4CD-0C9977EFEF54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFEFCE1-229E-4833-B4CD-0C9977EFEF54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFEFCE1-229E-4833-B4CD-0C9977EFEF54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

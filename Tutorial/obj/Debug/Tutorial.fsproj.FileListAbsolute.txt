@@ -1,0 +1,7 @@
+c:\Users\Kyle\documents\visual studio 2013\Projects\WPFTest\Tutorial\bin\Debug\Tutorial.XML
+c:\Users\Kyle\documents\visual studio 2013\Projects\WPFTest\Tutorial\bin\Debug\Tutorial.exe
+c:\Users\Kyle\documents\visual studio 2013\Projects\WPFTest\Tutorial\bin\Debug\Tutorial.pdb
+c:\Users\Kyle\documents\visual studio 2013\Projects\WPFTest\Tutorial\bin\Debug\FSharp.Core.dll
+c:\Users\Kyle\documents\visual studio 2013\Projects\WPFTest\Tutorial\bin\Debug\FSharp.Core.xml
+c:\Users\Kyle\documents\visual studio 2013\Projects\WPFTest\Tutorial\obj\Debug\Tutorial.exe
+c:\Users\Kyle\documents\visual studio 2013\Projects\WPFTest\Tutorial\obj\Debug\Tutorial.pdb
